@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cabinets.png">
+<SubTexture name="cabinets0000" x="0" y="0" width="1260" height="573" frameX="-25" frameY="0" frameWidth="1315" frameHeight="574" />
+<SubTexture name="cabinets0001" x="1260" y="0" width="1265" height="573" frameX="-24" frameY="0" frameWidth="1315" frameHeight="574" />
+<SubTexture name="cabinets0002" x="0" y="0" width="1260" height="573" frameX="-25" frameY="0" frameWidth="1315" frameHeight="574" />
+<SubTexture name="cabinets0003" x="0" y="573" width="1265" height="573" frameX="-24" frameY="0" frameWidth="1315" frameHeight="574" />
+<SubTexture name="cabinets0004" x="1265" y="573" width="1260" height="573" frameX="-25" frameY="0" frameWidth="1315" frameHeight="574" />
+<SubTexture name="cabinets0005" x="0" y="1146" width="1265" height="573" frameX="-24" frameY="0" frameWidth="1315" frameHeight="574" />
+</TextureAtlas>
