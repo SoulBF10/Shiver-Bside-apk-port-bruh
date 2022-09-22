@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="B-monster.png">
+<SubTexture name="Idle0000" x="1375" y="0" width="533" height="1237" frameX="-6" frameY="-1" frameWidth="549" frameHeight="1238" />
+<SubTexture name="Sing Down0000" x="1078" y="2487" width="1105" height="833" frameX="0" frameY="-28" frameWidth="1105" frameHeight="869" />
+<SubTexture name="Sing Down0001" x="0" y="2487" width="1078" height="857" frameX="-10" frameY="-12" frameWidth="1105" frameHeight="869" />
+<SubTexture name="Sing Left0000" x="0" y="1282" width="773" height="1205" frameX="0" frameY="-7" frameWidth="773" frameHeight="1212" />
+<SubTexture name="Sing Left0001" x="1908" y="0" width="739" height="1211" frameX="-33" frameY="-1" frameWidth="773" frameHeight="1212" />
+<SubTexture name="Sing Right0000" x="773" y="1282" width="1018" height="1139" frameX="-1" frameY="0" frameWidth="1019" frameHeight="1139" />
+<SubTexture name="Sing Right0001" x="2647" y="0" width="991" height="1139" frameX="0" frameY="0" frameWidth="1019" frameHeight="1139" />
+<SubTexture name="Sing Up0000" x="0" y="0" width="662" height="1282" frameX="-21" frameY="0" frameWidth="714" frameHeight="1282" />
+<SubTexture name="Sing Up0001" x="662" y="0" width="713" height="1275" frameX="0" frameY="-7" frameWidth="714" frameHeight="1282" />
+</TextureAtlas>
